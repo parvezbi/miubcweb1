@@ -1,0 +1,177 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.menu ul li a {
+    text-align: center;
+}
+/*header end*/
+/*banner start*/
+.banner {
+    padding: 30px 0;
+}
+.banner_cont {
+    margin: 0 0 0 0;
+}
+.banner_cont h1 {
+    font-size: 16px;
+    line-height: 30px;
+}
+/*banner end*/
+/*service1 start*/
+
+/*service1 end*/
+/*service2 start*/
+
+/*service2 end*/
+/*gallery start*/
+
+/*gallery end*/
+/*contact start*/
+
+/*contact end*/
+/*footer start*/
+.fo_left p {
+    text-align: center;
+}
+.fo_right {
+    margin: 0 45px;
+}
+.fo_left p {
+    padding: 0 0;
+}
+/*footer end*/
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.menu ul li a {
+    text-align: center;
+}
+/*header end*/
+/*banner start*/
+
+/*banner end*/
+/*service1 start*/
+
+/*service1 end*/
+/*service2 start*/
+
+/*service2 end*/
+/*gallery start*/
+
+/*gallery end*/
+/*contact start*/
+
+/*contact end*/
+/*footer start*/
+.fo_left p {
+    text-align: center;
+}
+.fo_right {
+    margin: 0 45px;
+}
+.fo_left p {
+    padding: 0 0;
+}
+/*footer end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.menu ul li a {
+    text-align: center;
+}
+/*header end*/
+/*banner start*/
+.banner {
+    padding: 40px 0;  
+}
+.banner_cont {
+    margin: 15px 0 0 0;
+}
+/*banner end*/
+/*service1 start*/
+
+/*service1 end*/
+/*service2 start*/
+/*service2 end*/
+/*gallery start*/
+/*gallery end*/
+/*contact start*/
+
+/*contact end*/
+/*footer start*/
+.fo_left p {
+    text-align: center;
+}
+.fo_right {
+    margin: 0 0;
+}
+.fo_left p {
+    padding: 0 0;
+}
+/*footer end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*header start*/
+
+/*header end*/
+/*banner start*/
+.banner {
+    padding: 60px 0;
+}
+/*banner end*/
+/*service1 start*/
+
+/*service1 end*/
+/*service2 start*/
+
+/*service2 end*/
+/*gallery start*/
+
+/*gallery end*/
+/*contact start*/
+
+/*contact end*/
+/*footer start*/
+.fo_left p {
+    text-align: center;
+}
+.fo_right {
+    margin: 0 0;
+}
+.fo_left p {
+    padding: 0 0;
+}
+/*footer end*/
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+/*header start*/
+
+/*header end*/
+/*banner start*/
+
+/*banner end*/
+/*service1 start*/
+
+/*service1 end*/
+/*service2 start*/
+
+/*service2 end*/
+/*gallery start*/
+
+/*gallery end*/
+/*contact start*/
+/*contact end*/
+/*footer start*/
+/*footer end*/
+}
